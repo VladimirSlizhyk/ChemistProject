@@ -1,0 +1,11 @@
+D:\ChemistProject\ChemistProject.Services\obj\Debug\ChemistProject.Services.csprojResolveAssemblyReference.cache
+D:\ChemistProject\ChemistProject.Services\bin\Debug\ChemistProject.Services.dll
+D:\ChemistProject\ChemistProject.Services\bin\Debug\ChemistProject.Services.pdb
+D:\ChemistProject\ChemistProject.Services\bin\Debug\ChemistProject.BLInterfaces.dll
+D:\ChemistProject\ChemistProject.Services\bin\Debug\ChemistProject.Core.dll
+D:\ChemistProject\ChemistProject.Services\bin\Debug\ChemistProject.DALInterfaces.dll
+D:\ChemistProject\ChemistProject.Services\bin\Debug\ChemistProject.BLInterfaces.pdb
+D:\ChemistProject\ChemistProject.Services\bin\Debug\ChemistProject.Core.pdb
+D:\ChemistProject\ChemistProject.Services\bin\Debug\ChemistProject.DALInterfaces.pdb
+D:\ChemistProject\ChemistProject.Services\obj\Debug\ChemistProject.Services.dll
+D:\ChemistProject\ChemistProject.Services\obj\Debug\ChemistProject.Services.pdb

@@ -1,0 +1,87 @@
+﻿@model ChemistProject.Models.ClientModel
+
+@{
+    ViewBag.Title = "Client View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Client View</h2>
+
+<fieldset>
+    <legend>ClientModel</legend>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.FirstName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.FirstName)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.LastName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.LastName)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.DateOfBirth)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DateOfBirth)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Address)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Address)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Phone)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Phone)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Email)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Email)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.LeftEye)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.LeftEye)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.RightEye)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.RightEye)
+    </div>
+    <p>
+        @Html.ActionLink("Add Visit List", "AddVisitList", new { clientId = Model.Id })
+    </p>
+    @foreach (var item in Model.VisitLists)
+    {
+        <div>
+            <hr/>
+            @item.VisitDate
+            <br />
+            @item.OrderAmount
+            <br />
+            @item.OrderStatus
+            <br />
+            @Html.ActionLink("Edit", "EditVisitList", new { visitListId = item.Id },new object()) |
+            @Html.ActionLink("Delete", "DeleteVisitList", new { visitListId = item.Id }, new object()) 
+            <hr/>
+        </div>
+    }
+</fieldset>
+

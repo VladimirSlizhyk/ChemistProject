@@ -1,0 +1,13 @@
+D:\ChemistProject\ChemistProject.BLInterfaces\bin\Debug\ChemistProject.BLInterfaces.dll
+D:\ChemistProject\ChemistProject.BLInterfaces\bin\Debug\ChemistProject.BLInterfaces.pdb
+D:\ChemistProject\ChemistProject.BLInterfaces\bin\Debug\ChemistProject.Core.dll
+D:\ChemistProject\ChemistProject.BLInterfaces\bin\Debug\ChemistProject.DALInterfaces.dll
+D:\ChemistProject\ChemistProject.BLInterfaces\bin\Debug\ChemistProject.EFData.dll
+D:\ChemistProject\ChemistProject.BLInterfaces\bin\Debug\EntityFramework.dll
+D:\ChemistProject\ChemistProject.BLInterfaces\bin\Debug\ChemistProject.Core.pdb
+D:\ChemistProject\ChemistProject.BLInterfaces\bin\Debug\ChemistProject.DALInterfaces.pdb
+D:\ChemistProject\ChemistProject.BLInterfaces\bin\Debug\ChemistProject.EFData.pdb
+D:\ChemistProject\ChemistProject.BLInterfaces\bin\Debug\EntityFramework.xml
+D:\ChemistProject\ChemistProject.BLInterfaces\obj\Debug\ChemistProject.BLInterfaces.csprojResolveAssemblyReference.cache
+D:\ChemistProject\ChemistProject.BLInterfaces\obj\Debug\ChemistProject.BLInterfaces.dll
+D:\ChemistProject\ChemistProject.BLInterfaces\obj\Debug\ChemistProject.BLInterfaces.pdb

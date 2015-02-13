@@ -1,0 +1,21 @@
+﻿@model ChemistProject.Models.SearchModel
+
+@{
+    ViewBag.Title = "Add Client";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add Client</h2>
+
+@using (Html.BeginForm("AddClient", "Chemist", FormMethod.Post))
+{
+    @Html.ValidationSummary(true)
+
+    <p>
+        <input type="submit" value="Create Client Profile" />
+    </p>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

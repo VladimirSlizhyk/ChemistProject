@@ -1,0 +1,14 @@
+D:\ChemistProject\ChemistProject.EFData\bin\Debug\ChemistProject.EFData.dll.config
+D:\ChemistProject\ChemistProject.EFData\bin\Debug\ChemistProject.EFData.dll
+D:\ChemistProject\ChemistProject.EFData\bin\Debug\ChemistProject.EFData.pdb
+D:\ChemistProject\ChemistProject.EFData\bin\Debug\ChemistProject.Core.dll
+D:\ChemistProject\ChemistProject.EFData\bin\Debug\ChemistProject.DALInterfaces.dll
+D:\ChemistProject\ChemistProject.EFData\bin\Debug\EntityFramework.dll
+D:\ChemistProject\ChemistProject.EFData\bin\Debug\EntityFramework.SqlServer.dll
+D:\ChemistProject\ChemistProject.EFData\bin\Debug\ChemistProject.Core.pdb
+D:\ChemistProject\ChemistProject.EFData\bin\Debug\ChemistProject.DALInterfaces.pdb
+D:\ChemistProject\ChemistProject.EFData\bin\Debug\EntityFramework.xml
+D:\ChemistProject\ChemistProject.EFData\bin\Debug\EntityFramework.SqlServer.xml
+D:\ChemistProject\ChemistProject.EFData\obj\Debug\ChemistProject.EFData.csprojResolveAssemblyReference.cache
+D:\ChemistProject\ChemistProject.EFData\obj\Debug\ChemistProject.EFData.dll
+D:\ChemistProject\ChemistProject.EFData\obj\Debug\ChemistProject.EFData.pdb

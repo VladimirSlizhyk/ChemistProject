@@ -1,0 +1,48 @@
+﻿@using ChemistProject.Models
+@model ChemistProject.Models.ChangeVisitListModel
+
+@{
+    ViewBag.Title = "AddVisitList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add VisitList</h2>
+
+@using (Html.BeginForm("AddVisitList","Chemist", FormMethod.Post)) {
+    @Html.ValidationSummary(true)
+    @Html.HiddenFor(model => model.ClientId)
+    <fieldset>
+        <legend>ChangeVisitListModel</legend>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.VisitDate)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.VisitDate)
+            @Html.ValidationMessageFor(model => model.VisitDate)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.OrderAmount)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.OrderAmount)
+            @Html.ValidationMessageFor(model => model.OrderAmount)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.OrderStatus)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.OrderStatus)
+            @Html.ValidationMessageFor(model => model.OrderStatus)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

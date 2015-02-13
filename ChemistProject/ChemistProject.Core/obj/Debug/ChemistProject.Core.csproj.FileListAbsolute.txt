@@ -1,0 +1,5 @@
+D:\ChemistProject\ChemistProject.Core\bin\Debug\ChemistProject.Core.dll
+D:\ChemistProject\ChemistProject.Core\bin\Debug\ChemistProject.Core.pdb
+D:\ChemistProject\ChemistProject.Core\obj\Debug\ChemistProject.Core.csprojResolveAssemblyReference.cache
+D:\ChemistProject\ChemistProject.Core\obj\Debug\ChemistProject.Core.dll
+D:\ChemistProject\ChemistProject.Core\obj\Debug\ChemistProject.Core.pdb

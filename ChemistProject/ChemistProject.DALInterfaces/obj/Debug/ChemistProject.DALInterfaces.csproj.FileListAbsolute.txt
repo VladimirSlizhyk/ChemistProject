@@ -1,0 +1,7 @@
+D:\ChemistProject\ChemistProject.DALInterfaces\bin\Debug\ChemistProject.DALInterfaces.dll
+D:\ChemistProject\ChemistProject.DALInterfaces\bin\Debug\ChemistProject.DALInterfaces.pdb
+D:\ChemistProject\ChemistProject.DALInterfaces\bin\Debug\ChemistProject.Core.dll
+D:\ChemistProject\ChemistProject.DALInterfaces\bin\Debug\ChemistProject.Core.pdb
+D:\ChemistProject\ChemistProject.DALInterfaces\obj\Debug\ChemistProject.DALInterfaces.csprojResolveAssemblyReference.cache
+D:\ChemistProject\ChemistProject.DALInterfaces\obj\Debug\ChemistProject.DALInterfaces.dll
+D:\ChemistProject\ChemistProject.DALInterfaces\obj\Debug\ChemistProject.DALInterfaces.pdb
